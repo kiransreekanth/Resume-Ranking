@@ -15,10 +15,10 @@ Technologies Used
 Python 3.x
 
 2. Machine Learning & NLP Libraries
-Scikit-learn – TF-IDF vectorization, Naïve Bayes classification
-Spacy – NLP for resume analysis
-PyPDF2 – Extracting text from PDF resumes
-Joblib – Saving and loading trained models
+Scikit-learn – TF-IDF vectorization, Naïve Bayes classification,
+Spacy – NLP for resume analysis,
+PyPDF2 – Extracting text from PDF resumes,
+Joblib – Saving and loading trained models,
 Pandas & NumPy – Data handling
 
 3. Development Tools
