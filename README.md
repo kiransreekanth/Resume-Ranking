@@ -2,7 +2,7 @@
 This project is an AI-powered Resume Screening & Ranking System that evaluates resumes based on a given job description. It extracts resume text, processes it using Natural Language Processing (NLP), and applies machine learning techniques to classify and rank resumes. The system also provides improvement suggestions to enhance resume quality.
 
 Features
-✔ Extracts text from PDF resumes using PyPDF2
+✔ Extracts text from PDF resumes using PyPDF2##
 ✔ Cleans and preprocesses text (stopword removal, tokenization)
 ✔ Uses TF-IDF Vectorization for feature extraction
 ✔ Predicts job category using a Naïve Bayes classifier
