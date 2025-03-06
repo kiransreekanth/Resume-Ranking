@@ -28,3 +28,6 @@ Jupyter Notebook / VS Code – Development environment
 
 4. Dataset
 Updated Resume Dataset (CSV Format) – Used for training the model
+
+How to run the program?
+-Create a virtual environment and run the python file from the virtual environment using streamlit run resume_app.py.
