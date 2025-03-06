@@ -3,11 +3,11 @@ This project is an AI-powered Resume Screening & Ranking System that evaluates r
 
 Features
 ✔ Extracts text from PDF resumes using PyPDF2,
-✔ Cleans and preprocesses text (stopword removal, tokenization)
-✔ Uses TF-IDF Vectorization for feature extraction
-✔ Predicts job category using a Naïve Bayes classifier
-✔ Computes cosine similarity to rank resumes
-✔ Suggests improvements using NLP-based keyword analysis
+✔ Cleans and preprocesses text (stopword removal, tokenization),
+✔ Uses TF-IDF Vectorization for feature extraction,
+✔ Predicts job category using a Naïve Bayes classifier,
+✔ Computes cosine similarity to rank resumes,
+✔ Suggests improvements using NLP-based keyword analysis,
 ✔ Provides an interactive UI using Streamlit
 
 Technologies Used
