@@ -22,8 +22,8 @@ Joblib – Saving and loading trained models,
 Pandas & NumPy – Data handling
 
 3. Development Tools
-Streamlit – UI development
-Flask (Optional) – Backend API deployment
+Streamlit – UI development,
+Flask (Optional) – Backend API deployment,
 Jupyter Notebook / VS Code – Development environment
 
 4. Dataset
